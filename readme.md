@@ -4,6 +4,6 @@
 
 A Carousel/Slideshow with six different images
 
-## Links
+## Link
 [Live-link](https://amateli.github.io/Carousel-Zuri-/)
 
